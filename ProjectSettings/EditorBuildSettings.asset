@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/partlywin.unity
+    guid: 64710da0a6fa02d41b69423f084e58e7
+  - enabled: 1
+    path: Assets/layout.unity
+    guid: 7eee1a5646683444393762245a414e49
+  - enabled: 1
+    path: Assets/Universe.unity
+    guid: ee28db9f7ec0fa34ca7f8b9e31390968
+  - enabled: 1
+    path: Assets/lose.unity
+    guid: e973d742945ceea4d8479e8ac95ff42e
+  - enabled: 1
+    path: Assets/fullywin.unity
+    guid: 829e08528b006d44ea0e38279c311073
+  - enabled: 1
+    path: Assets/starve.unity
+    guid: 91ca589da6f41b84d8aee139bc697a0f
